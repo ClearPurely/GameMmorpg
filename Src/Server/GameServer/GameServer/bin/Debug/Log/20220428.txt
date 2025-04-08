@@ -1,0 +1,154 @@
+
+2022-04-28 00:35:48,789 [1] [INFO ] [GameServer] ：Game Server Init
+2022-04-28 00:35:49,020 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-04-28 00:35:49,312 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-04-28 00:35:49,315 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-04-28 00:35:49,315 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:落日森林
+2022-04-28 00:35:49,315 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-04-28 00:35:49,317 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-04-28 00:35:49,366 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 00:35:49,367 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 00:35:49,367 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 00:35:49,368 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 00:35:49,369 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 00:35:49,371 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 00:35:49,371 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 00:35:49,371 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 00:35:49,472 [1] [WARN ] [GameServer] ：NetService Started
+2022-04-28 00:36:28,201 [3] [WARN ] [GameServer] ：Client[127.0.0.1:8374]] Connected
+2022-04-28 00:36:28,274 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:23
+2022-04-28 00:36:28,404 [5] [INFO ] [GameServer] ：UserLoginRequest: User:zw123  Pass:abc123
+2022-04-28 00:36:38,295 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:10
+2022-04-28 00:36:38,299 [6] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:2:222 Map:1
+2022-04-28 00:41:06,648 [1] [INFO ] [GameServer] ：Game Server Init
+2022-04-28 00:41:06,971 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-04-28 00:41:07,232 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-04-28 00:41:07,234 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-04-28 00:41:07,235 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:落日森林
+2022-04-28 00:41:07,236 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-04-28 00:41:07,239 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-04-28 00:41:07,289 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 00:41:07,289 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 00:41:07,289 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 00:41:07,289 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 00:41:07,289 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 00:41:07,290 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 00:41:07,290 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 00:41:07,290 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 00:41:07,357 [1] [WARN ] [GameServer] ：NetService Started
+2022-04-28 00:41:15,153 [3] [WARN ] [GameServer] ：Client[127.0.0.1:8650]] Connected
+2022-04-28 00:41:15,218 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:23
+2022-04-28 00:41:15,342 [6] [INFO ] [GameServer] ：UserLoginRequest: User:zw123  Pass:abc123
+2022-04-28 00:41:36,836 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:10
+2022-04-28 00:41:36,840 [6] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:2:222 Map:1
+2022-04-28 00:56:23,918 [1] [INFO ] [GameServer] ：Game Server Init
+2022-04-28 00:56:24,147 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-04-28 00:56:24,369 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-04-28 00:56:24,372 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-04-28 00:56:24,372 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:落日森林
+2022-04-28 00:56:24,373 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-04-28 00:56:24,376 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-04-28 00:56:24,415 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 00:56:24,416 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 00:56:24,415 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 00:56:24,445 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 00:56:24,445 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 00:56:24,445 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 00:56:24,444 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 00:56:24,444 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 00:56:24,487 [1] [WARN ] [GameServer] ：NetService Started
+2022-04-28 00:57:06,046 [3] [WARN ] [GameServer] ：Client[127.0.0.1:9427]] Connected
+2022-04-28 00:57:06,112 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:23
+2022-04-28 00:57:06,236 [5] [INFO ] [GameServer] ：UserLoginRequest: User:zw123  Pass:abc123
+2022-04-28 00:57:16,630 [13] [WARN ] [GameServer] ：Client[] DataReceived Len:15
+2022-04-28 00:57:16,634 [5] [INFO ] [GameServer] ：UserCreateCharacterRequest: Name:555  Class:Archer
+2022-04-28 00:57:34,318 [13] [WARN ] [GameServer] ：Client[] Disconnected
+2022-04-28 01:00:04,402 [15] [WARN ] [GameServer] ：Client[127.0.0.1:9564]] Connected
+2022-04-28 01:00:04,467 [16] [WARN ] [GameServer] ：Client[] DataReceived Len:23
+2022-04-28 01:00:04,467 [5] [INFO ] [GameServer] ：UserLoginRequest: User:zw123  Pass:abc123
+2022-04-28 01:00:29,170 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:15
+2022-04-28 01:00:29,171 [5] [INFO ] [GameServer] ：UserCreateCharacterRequest: Name:666  Class:Wizard
+2022-04-28 01:00:32,979 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:10
+2022-04-28 01:00:32,982 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:2:222 Map:1
+2022-04-28 01:07:19,564 [1] [INFO ] [GameServer] ：Game Server Init
+2022-04-28 01:07:19,855 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-04-28 01:07:20,080 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-04-28 01:07:20,082 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-04-28 01:07:20,082 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:落日森林
+2022-04-28 01:07:20,082 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-04-28 01:07:20,085 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-04-28 01:07:20,117 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 01:07:20,119 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 01:07:20,119 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 01:07:20,121 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 01:07:20,122 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 01:07:20,122 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 01:07:20,123 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 01:07:20,125 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 01:07:20,212 [1] [WARN ] [GameServer] ：NetService Started
+2022-04-28 01:07:23,017 [3] [WARN ] [GameServer] ：Client[127.0.0.1:9944]] Connected
+2022-04-28 01:07:23,089 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:23
+2022-04-28 01:07:23,228 [5] [INFO ] [GameServer] ：UserLoginRequest: User:zw123  Pass:abc123
+2022-04-28 01:07:39,429 [3] [WARN ] [GameServer] ：Client[] Disconnected
+2022-04-28 01:19:45,058 [14] [WARN ] [GameServer] ：Client[127.0.0.1:10556]] Connected
+2022-04-28 01:19:45,124 [32] [WARN ] [GameServer] ：Client[] DataReceived Len:23
+2022-04-28 01:19:45,125 [5] [INFO ] [GameServer] ：UserLoginRequest: User:zw123  Pass:abc123
+2022-04-28 01:20:39,062 [14] [WARN ] [GameServer] ：Client[] Disconnected
+2022-04-28 01:21:01,440 [34] [WARN ] [GameServer] ：Client[127.0.0.1:10606]] Connected
+2022-04-28 01:21:01,507 [34] [WARN ] [GameServer] ：Client[] DataReceived Len:23
+2022-04-28 01:21:01,508 [5] [INFO ] [GameServer] ：UserLoginRequest: User:zw123  Pass:abc123
+2022-04-28 01:27:55,848 [34] [WARN ] [GameServer] ：Client[] Disconnected
+2022-04-28 01:28:31,916 [34] [WARN ] [GameServer] ：Client[127.0.0.1:10888]] Connected
+2022-04-28 01:28:31,980 [34] [WARN ] [GameServer] ：Client[] DataReceived Len:23
+2022-04-28 01:28:31,982 [5] [INFO ] [GameServer] ：UserLoginRequest: User:zw123  Pass:abc123
+2022-04-28 01:29:30,886 [50] [WARN ] [GameServer] ：Client[] DataReceived Len:15
+2022-04-28 01:29:30,889 [5] [INFO ] [GameServer] ：UserCreateCharacterRequest: Name:666  Class:Wizard
+2022-04-28 01:29:38,725 [53] [WARN ] [GameServer] ：Client[] Disconnected
+2022-04-28 01:29:52,460 [1] [INFO ] [GameServer] ：Game Server Init
+2022-04-28 01:29:52,735 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-04-28 01:29:52,950 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-04-28 01:29:52,953 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-04-28 01:29:52,953 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:落日森林
+2022-04-28 01:29:52,954 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-04-28 01:29:52,957 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-04-28 01:29:53,046 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 01:29:53,049 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 01:29:53,082 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 01:29:53,082 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 01:29:53,082 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 01:29:53,083 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 01:29:53,082 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 01:29:53,108 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 01:29:53,152 [1] [WARN ] [GameServer] ：NetService Started
+2022-04-28 01:30:14,131 [3] [WARN ] [GameServer] ：Client[127.0.0.1:10966]] Connected
+2022-04-28 01:30:14,197 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:23
+2022-04-28 01:30:14,328 [5] [INFO ] [GameServer] ：UserLoginRequest: User:zw123  Pass:abc123
+2022-04-28 01:31:14,554 [13] [WARN ] [GameServer] ：Client[] Disconnected
+2022-04-28 01:31:41,206 [13] [WARN ] [GameServer] ：Client[127.0.0.1:11023]] Connected
+2022-04-28 01:31:41,271 [13] [WARN ] [GameServer] ：Client[] DataReceived Len:23
+2022-04-28 01:31:41,272 [5] [INFO ] [GameServer] ：UserLoginRequest: User:zw123  Pass:abc123
+2022-04-28 01:32:02,716 [16] [WARN ] [GameServer] ：Client[] DataReceived Len:15
+2022-04-28 01:32:02,719 [5] [INFO ] [GameServer] ：UserCreateCharacterRequest: Name:888  Class:Wizard
+2022-04-28 01:32:09,709 [15] [WARN ] [GameServer] ：Client[] Disconnected
+2022-04-28 02:53:35,428 [1] [INFO ] [GameServer] ：Game Server Init
+2022-04-28 02:53:35,700 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-04-28 02:53:35,919 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-04-28 02:53:35,923 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-04-28 02:53:35,923 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:落日森林
+2022-04-28 02:53:35,923 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-04-28 02:53:35,925 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-04-28 02:53:35,997 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 02:53:35,998 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 02:53:35,998 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 02:53:35,998 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 02:53:36,028 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 02:53:36,028 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 02:53:36,028 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 02:53:36,028 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-28 02:53:36,116 [1] [WARN ] [GameServer] ：NetService Started
+2022-04-28 02:53:45,094 [3] [WARN ] [GameServer] ：Client[127.0.0.1:1490]] Connected
+2022-04-28 02:53:45,166 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:23
+2022-04-28 02:53:45,290 [5] [INFO ] [GameServer] ：UserLoginRequest: User:zw123  Pass:abc123
+2022-04-28 02:54:03,023 [14] [WARN ] [GameServer] ：Client[] DataReceived Len:15
+2022-04-28 02:54:03,027 [5] [INFO ] [GameServer] ：UserCreateCharacterRequest: Name:999  Class:Wizard
+2022-04-28 02:54:06,768 [14] [WARN ] [GameServer] ：Client[] Disconnected

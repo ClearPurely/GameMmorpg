@@ -1,0 +1,714 @@
+
+2022-04-27 01:44:22,378 [1] [INFO ] [GameServer] ：Game Server Init
+2022-04-27 01:44:22,919 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-04-27 01:44:23,043 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 01:44:23,043 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 01:44:23,100 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 01:44:23,112 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 01:44:23,113 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 01:44:23,121 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 01:44:23,123 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 01:44:23,133 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 01:44:23,227 [1] [WARN ] [GameServer] ：NetService Started
+2022-04-27 01:44:39,760 [3] [WARN ] [GameServer] ：Client[127.0.0.1:2644]] Connected
+2022-04-27 01:44:39,863 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:24
+2022-04-27 01:44:40,027 [5] [INFO ] [GameServer] ：UserLoginRequest: User:zw1234  Pass:123456
+2022-04-27 01:44:54,091 [14] [WARN ] [GameServer] ：Client[] DataReceived Len:24
+2022-04-27 01:44:54,093 [5] [INFO ] [GameServer] ：UserLoginRequest: User:zw123  Pass:abc1234
+2022-04-27 01:44:57,178 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:23
+2022-04-27 01:44:57,179 [6] [INFO ] [GameServer] ：UserLoginRequest: User:zw123  Pass:abc123
+2022-04-27 01:45:43,847 [14] [WARN ] [GameServer] ：Client[] DataReceived Len:23
+2022-04-27 01:45:43,847 [5] [INFO ] [GameServer] ：UserLoginRequest: User:zw123  Pass:abc123
+2022-04-27 01:46:23,204 [1] [INFO ] [GameServer] ：Game Server Init
+2022-04-27 01:46:23,689 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-04-27 01:46:23,813 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 01:46:23,813 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 01:46:23,813 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 01:46:23,813 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 01:46:23,814 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 01:46:23,814 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 01:46:23,814 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 01:46:23,814 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 01:46:23,919 [1] [WARN ] [GameServer] ：NetService Started
+2022-04-27 01:46:30,181 [4] [WARN ] [GameServer] ：Client[127.0.0.1:2701]] Connected
+2022-04-27 01:46:30,189 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:23
+2022-04-27 01:46:30,357 [6] [INFO ] [GameServer] ：UserLoginRequest: User:zw123  Pass:abc123
+2022-04-27 01:46:33,494 [4] [WARN ] [GameServer] ：Client[] Disconnected
+2022-04-27 01:47:02,391 [4] [WARN ] [GameServer] ：Client[127.0.0.1:2724]] Connected
+2022-04-27 01:47:02,482 [4] [WARN ] [GameServer] ：Client[] DataReceived Len:23
+2022-04-27 01:47:02,483 [6] [INFO ] [GameServer] ：UserLoginRequest: User:zw123  Pass:abc123
+2022-04-27 01:47:04,916 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:23
+2022-04-27 01:47:04,919 [6] [INFO ] [GameServer] ：UserLoginRequest: User:zw123  Pass:abc123
+2022-04-27 01:47:05,416 [4] [WARN ] [GameServer] ：Client[] DataReceived Len:23
+2022-04-27 01:47:05,416 [7] [INFO ] [GameServer] ：UserLoginRequest: User:zw123  Pass:abc123
+2022-04-27 01:47:05,896 [14] [WARN ] [GameServer] ：Client[] DataReceived Len:23
+2022-04-27 01:47:05,897 [6] [INFO ] [GameServer] ：UserLoginRequest: User:zw123  Pass:abc123
+2022-04-27 01:49:02,769 [4] [WARN ] [GameServer] ：Client[] Disconnected
+2022-04-27 01:49:52,930 [17] [WARN ] [GameServer] ：Client[127.0.0.1:2849]] Connected
+2022-04-27 01:49:53,035 [17] [WARN ] [GameServer] ：Client[] DataReceived Len:23
+2022-04-27 01:49:53,036 [6] [INFO ] [GameServer] ：UserLoginRequest: User:zw123  Pass:abc123
+2022-04-27 02:29:33,758 [1] [INFO ] [GameServer] ：Game Server Init
+2022-04-27 02:29:34,133 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-04-27 02:29:34,152 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 02:29:34,152 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 02:29:34,153 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 02:29:34,186 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 02:29:34,216 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 02:29:34,186 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 02:29:34,216 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 02:29:34,217 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 02:29:34,257 [1] [WARN ] [GameServer] ：NetService Started
+2022-04-27 02:29:52,492 [3] [WARN ] [GameServer] ：Client[127.0.0.1:4607]] Connected
+2022-04-27 02:29:52,579 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:23
+2022-04-27 02:29:52,733 [5] [INFO ] [GameServer] ：UserLoginRequest: User:zw123  Pass:abc123
+2022-04-27 02:30:38,702 [14] [WARN ] [GameServer] ：Client[] DataReceived Len:15
+2022-04-27 02:30:38,706 [5] [INFO ] [GameServer] ：UserCreateCharacterRequest: Name:111  Class:Warrior
+2022-04-27 02:30:39,163 [5] [ERROR] [GameServer] ：Message handler exception:System.Data.Entity.Core.UpdateException: 更新条目时出错。有关详细信息，请参阅内部异常。 ---> System.Data.SqlClient.SqlException: 不能将值 NULL 插入列 'Bag_Id'，表 'ExtremeWorld.dbo.Characters'；列不允许有 Null 值。INSERT 失败。
+语句已终止。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   在 System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.Reader(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   在 System.Data.Entity.Core.Mapping.Update.Internal.DynamicUpdateCommand.Execute(Dictionary`2 identifierValues, List`1 generatedValues)
+   在 System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   在 System.Data.Entity.Internal.InternalContext.SaveChanges(), 在保存不公开其关系的外键属性的实体时出错。EntityEntries 属性将返回 null，因为单个实体无法标识为异常的源。通过在实体类型中公开外键属性，可以更加轻松地在保存时处理异常。有关详细信息，请参阅 InnerException。, EntityFramework,    在 System.Data.Entity.Internal.InternalContext.SaveChanges()
+   在 GameServer.Services.UserService.OnCreateCharacter(NetConnection`1 sender, UserCreateCharacterRequest request) 位置 D:\biancheng\unity\MyMmorpg\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 124
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\biancheng\unity\MyMmorpg\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2022-04-27 02:35:12,484 [1] [INFO ] [GameServer] ：Game Server Init
+2022-04-27 02:35:12,795 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-04-27 02:35:12,846 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 02:35:12,847 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 02:35:12,881 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 02:35:12,881 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 02:35:12,881 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 02:35:12,881 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 02:35:12,881 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 02:35:12,881 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 02:35:12,951 [1] [WARN ] [GameServer] ：NetService Started
+2022-04-27 02:35:31,945 [3] [WARN ] [GameServer] ：Client[127.0.0.1:4863]] Connected
+2022-04-27 02:35:32,034 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:23
+2022-04-27 02:35:32,185 [5] [INFO ] [GameServer] ：UserLoginRequest: User:zw123  Pass:abc123
+2022-04-27 02:35:49,558 [14] [WARN ] [GameServer] ：Client[] DataReceived Len:15
+2022-04-27 02:35:49,562 [5] [INFO ] [GameServer] ：UserCreateCharacterRequest: Name:111  Class:Warrior
+2022-04-27 02:35:49,989 [5] [ERROR] [GameServer] ：Message handler exception:System.Data.Entity.Core.UpdateException: 更新条目时出错。有关详细信息，请参阅内部异常。 ---> System.Data.SqlClient.SqlException: 不能将值 NULL 插入列 'Bag_Id'，表 'ExtremeWorld.dbo.Characters'；列不允许有 Null 值。INSERT 失败。
+语句已终止。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   在 System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.Reader(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   在 System.Data.Entity.Core.Mapping.Update.Internal.DynamicUpdateCommand.Execute(Dictionary`2 identifierValues, List`1 generatedValues)
+   在 System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   在 System.Data.Entity.Internal.InternalContext.SaveChanges(), 在保存不公开其关系的外键属性的实体时出错。EntityEntries 属性将返回 null，因为单个实体无法标识为异常的源。通过在实体类型中公开外键属性，可以更加轻松地在保存时处理异常。有关详细信息，请参阅 InnerException。, EntityFramework,    在 System.Data.Entity.Internal.InternalContext.SaveChanges()
+   在 GameServer.Services.UserService.OnCreateCharacter(NetConnection`1 sender, UserCreateCharacterRequest request) 位置 D:\biancheng\unity\MyMmorpg\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 124
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\biancheng\unity\MyMmorpg\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2022-04-27 02:40:50,031 [1] [INFO ] [GameServer] ：Game Server Init
+2022-04-27 02:40:50,392 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-04-27 02:40:50,413 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 02:40:50,415 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 02:40:50,420 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 02:40:50,420 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 02:40:50,422 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 02:40:50,449 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 02:40:50,449 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 02:40:50,449 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 02:40:50,507 [1] [WARN ] [GameServer] ：NetService Started
+2022-04-27 02:41:09,513 [3] [WARN ] [GameServer] ：Client[127.0.0.1:5068]] Connected
+2022-04-27 02:41:09,623 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:23
+2022-04-27 02:41:09,847 [5] [INFO ] [GameServer] ：UserLoginRequest: User:zw123  Pass:abc123
+2022-04-27 02:41:18,937 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:15
+2022-04-27 02:41:18,941 [6] [INFO ] [GameServer] ：UserCreateCharacterRequest: Name:111  Class:Warrior
+2022-04-27 02:41:19,372 [6] [ERROR] [GameServer] ：Message handler exception:System.Data.Entity.Core.UpdateException: 更新条目时出错。有关详细信息，请参阅内部异常。 ---> System.Data.SqlClient.SqlException: 不能将值 NULL 插入列 'Bag_Id'，表 'ExtremeWorld.dbo.Characters'；列不允许有 Null 值。INSERT 失败。
+语句已终止。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   在 System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.Reader(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   在 System.Data.Entity.Core.Mapping.Update.Internal.DynamicUpdateCommand.Execute(Dictionary`2 identifierValues, List`1 generatedValues)
+   在 System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   在 System.Data.Entity.Internal.InternalContext.SaveChanges(), 在保存不公开其关系的外键属性的实体时出错。EntityEntries 属性将返回 null，因为单个实体无法标识为异常的源。通过在实体类型中公开外键属性，可以更加轻松地在保存时处理异常。有关详细信息，请参阅 InnerException。, EntityFramework,    在 System.Data.Entity.Internal.InternalContext.SaveChanges()
+   在 GameServer.Services.UserService.OnCreateCharacter(NetConnection`1 sender, UserCreateCharacterRequest request) 位置 D:\biancheng\unity\MyMmorpg\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 124
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\biancheng\unity\MyMmorpg\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2022-04-27 02:41:42,846 [3] [WARN ] [GameServer] ：Client[] Disconnected
+2022-04-27 02:55:18,051 [1] [INFO ] [GameServer] ：Game Server Init
+2022-04-27 02:55:18,306 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-04-27 02:55:18,349 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 02:55:18,349 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 02:55:18,349 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 02:55:18,349 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 02:55:18,349 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 02:55:18,350 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 02:55:18,350 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 02:55:18,352 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 02:55:18,448 [1] [WARN ] [GameServer] ：NetService Started
+2022-04-27 02:56:47,928 [3] [WARN ] [GameServer] ：Client[127.0.0.1:5846]] Connected
+2022-04-27 02:56:48,019 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:23
+2022-04-27 02:56:48,171 [5] [INFO ] [GameServer] ：UserLoginRequest: User:zw123  Pass:abc123
+2022-04-27 02:57:05,017 [13] [WARN ] [GameServer] ：Client[] DataReceived Len:15
+2022-04-27 02:57:05,021 [5] [INFO ] [GameServer] ：UserCreateCharacterRequest: Name:111  Class:Warrior
+2022-04-27 02:57:05,436 [5] [ERROR] [GameServer] ：Message handler exception:System.Data.Entity.Core.UpdateException: 更新条目时出错。有关详细信息，请参阅内部异常。 ---> System.Data.SqlClient.SqlException: 不能将值 NULL 插入列 'Bag_Id'，表 'ExtremeWorld.dbo.Characters'；列不允许有 Null 值。INSERT 失败。
+语句已终止。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   在 System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.Reader(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   在 System.Data.Entity.Core.Mapping.Update.Internal.DynamicUpdateCommand.Execute(Dictionary`2 identifierValues, List`1 generatedValues)
+   在 System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   在 System.Data.Entity.Internal.InternalContext.SaveChanges(), 在保存不公开其关系的外键属性的实体时出错。EntityEntries 属性将返回 null，因为单个实体无法标识为异常的源。通过在实体类型中公开外键属性，可以更加轻松地在保存时处理异常。有关详细信息，请参阅 InnerException。, EntityFramework,    在 System.Data.Entity.Internal.InternalContext.SaveChanges()
+   在 GameServer.Services.UserService.OnCreateCharacter(NetConnection`1 sender, UserCreateCharacterRequest request) 位置 D:\biancheng\unity\MyMmorpg\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 124
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\biancheng\unity\MyMmorpg\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2022-04-27 03:09:22,566 [1] [INFO ] [GameServer] ：Game Server Init
+2022-04-27 03:09:22,850 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-04-27 03:09:22,926 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 03:09:22,927 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 03:09:22,929 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 03:09:22,929 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 03:09:22,929 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 03:09:22,929 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 03:09:22,929 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 03:09:22,929 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 03:09:22,974 [1] [WARN ] [GameServer] ：NetService Started
+2022-04-27 03:09:47,101 [3] [WARN ] [GameServer] ：Client[127.0.0.1:6419]] Connected
+2022-04-27 03:09:47,178 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:23
+2022-04-27 03:09:47,317 [5] [INFO ] [GameServer] ：UserLoginRequest: User:zw123  Pass:abc123
+2022-04-27 03:09:55,133 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:15
+2022-04-27 03:09:55,137 [6] [INFO ] [GameServer] ：UserCreateCharacterRequest: Name:111  Class:Warrior
+2022-04-27 03:09:55,562 [6] [ERROR] [GameServer] ：Message handler exception:System.Data.Entity.Core.UpdateException: 更新条目时出错。有关详细信息，请参阅内部异常。 ---> System.Data.SqlClient.SqlException: 不能将值 NULL 插入列 'Bag_Id'，表 'ExtremeWorld.dbo.Characters'；列不允许有 Null 值。INSERT 失败。
+语句已终止。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   在 System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.Reader(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   在 System.Data.Entity.Core.Mapping.Update.Internal.DynamicUpdateCommand.Execute(Dictionary`2 identifierValues, List`1 generatedValues)
+   在 System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   在 System.Data.Entity.Internal.InternalContext.SaveChanges(), 在保存不公开其关系的外键属性的实体时出错。EntityEntries 属性将返回 null，因为单个实体无法标识为异常的源。通过在实体类型中公开外键属性，可以更加轻松地在保存时处理异常。有关详细信息，请参阅 InnerException。, EntityFramework,    在 System.Data.Entity.Internal.InternalContext.SaveChanges()
+   在 GameServer.Services.UserService.OnCreateCharacter(NetConnection`1 sender, UserCreateCharacterRequest request) 位置 D:\biancheng\unity\MyMmorpg\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 124
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\biancheng\unity\MyMmorpg\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2022-04-27 03:10:06,980 [3] [WARN ] [GameServer] ：Client[] Disconnected
+2022-04-27 03:19:45,298 [1] [INFO ] [GameServer] ：Game Server Init
+2022-04-27 03:19:45,573 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-04-27 03:19:45,619 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 03:19:45,619 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 03:19:45,620 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 03:19:45,621 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 03:19:45,621 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 03:19:45,621 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 03:19:45,621 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 03:19:45,625 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 03:19:45,733 [1] [WARN ] [GameServer] ：NetService Started
+2022-04-27 03:20:08,138 [3] [WARN ] [GameServer] ：Client[127.0.0.1:6972]] Connected
+2022-04-27 03:20:08,223 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:23
+2022-04-27 03:20:08,385 [5] [INFO ] [GameServer] ：UserLoginRequest: User:zw123  Pass:abc123
+2022-04-27 03:20:21,461 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:15
+2022-04-27 03:20:21,465 [6] [INFO ] [GameServer] ：UserCreateCharacterRequest: Name:111  Class:Wizard
+2022-04-27 03:20:21,904 [6] [ERROR] [GameServer] ：Message handler exception:System.Data.Entity.Core.UpdateException: 更新条目时出错。有关详细信息，请参阅内部异常。 ---> System.Data.SqlClient.SqlException: 不能将值 NULL 插入列 'Bag_Id'，表 'ExtremeWorld.dbo.Characters'；列不允许有 Null 值。INSERT 失败。
+语句已终止。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   在 System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.Reader(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   在 System.Data.Entity.Core.Mapping.Update.Internal.DynamicUpdateCommand.Execute(Dictionary`2 identifierValues, List`1 generatedValues)
+   在 System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   在 System.Data.Entity.Internal.InternalContext.SaveChanges(), 在保存不公开其关系的外键属性的实体时出错。EntityEntries 属性将返回 null，因为单个实体无法标识为异常的源。通过在实体类型中公开外键属性，可以更加轻松地在保存时处理异常。有关详细信息，请参阅 InnerException。, EntityFramework,    在 System.Data.Entity.Internal.InternalContext.SaveChanges()
+   在 GameServer.Services.UserService.OnCreateCharacter(NetConnection`1 sender, UserCreateCharacterRequest request) 位置 D:\biancheng\unity\MyMmorpg\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 123
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\biancheng\unity\MyMmorpg\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2022-04-27 03:21:04,854 [3] [WARN ] [GameServer] ：Client[] Disconnected
+2022-04-27 15:02:14,188 [1] [INFO ] [GameServer] ：Game Server Init
+2022-04-27 15:02:14,574 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-04-27 15:02:14,617 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 15:02:14,617 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 15:02:14,650 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 15:02:14,650 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 15:02:14,650 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 15:02:14,654 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 15:02:14,654 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 15:02:14,658 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 15:02:14,725 [1] [WARN ] [GameServer] ：NetService Started
+2022-04-27 15:02:32,334 [3] [WARN ] [GameServer] ：Client[127.0.0.1:4853]] Connected
+2022-04-27 15:02:32,418 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:23
+2022-04-27 15:02:32,547 [5] [INFO ] [GameServer] ：UserLoginRequest: User:zw123  Pass:abc123
+2022-04-27 15:02:45,238 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:15
+2022-04-27 15:02:45,242 [5] [INFO ] [GameServer] ：UserCreateCharacterRequest: Name:的  Class:Warrior
+2022-04-27 15:02:45,630 [5] [ERROR] [GameServer] ：Message handler exception:System.Data.Entity.Core.UpdateException: 更新条目时出错。有关详细信息，请参阅内部异常。 ---> System.Data.SqlClient.SqlException: 不能将值 NULL 插入列 'Bag_Id'，表 'ExtremeWorld.dbo.Characters'；列不允许有 Null 值。INSERT 失败。
+语句已终止。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   在 System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.Reader(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   在 System.Data.Entity.Core.Mapping.Update.Internal.DynamicUpdateCommand.Execute(Dictionary`2 identifierValues, List`1 generatedValues)
+   在 System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   在 System.Data.Entity.Internal.InternalContext.SaveChanges(), 在保存不公开其关系的外键属性的实体时出错。EntityEntries 属性将返回 null，因为单个实体无法标识为异常的源。通过在实体类型中公开外键属性，可以更加轻松地在保存时处理异常。有关详细信息，请参阅 InnerException。, EntityFramework,    在 System.Data.Entity.Internal.InternalContext.SaveChanges()
+   在 GameServer.Services.UserService.OnCreateCharacter(NetConnection`1 sender, UserCreateCharacterRequest request) 位置 D:\biancheng\unity\MyMmorpg\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 123
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\biancheng\unity\MyMmorpg\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2022-04-27 15:08:53,460 [3] [WARN ] [GameServer] ：Client[] Disconnected
+2022-04-27 15:17:31,603 [3] [WARN ] [GameServer] ：Client[127.0.0.1:5808]] Connected
+2022-04-27 15:17:31,680 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:23
+2022-04-27 15:17:31,681 [5] [INFO ] [GameServer] ：UserLoginRequest: User:zw123  Pass:abc123
+2022-04-27 15:17:41,150 [36] [WARN ] [GameServer] ：Client[] DataReceived Len:15
+2022-04-27 15:17:41,150 [5] [INFO ] [GameServer] ：UserCreateCharacterRequest: Name:aaa  Class:Warrior
+2022-04-27 15:17:41,184 [5] [ERROR] [GameServer] ：Message handler exception:System.Data.Entity.Core.UpdateException: 更新条目时出错。有关详细信息，请参阅内部异常。 ---> System.Data.SqlClient.SqlException: 不能将值 NULL 插入列 'Level'，表 'ExtremeWorld.dbo.Characters'；列不允许有 Null 值。INSERT 失败。
+语句已终止。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   在 System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.Reader(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   在 System.Data.Entity.Core.Mapping.Update.Internal.DynamicUpdateCommand.Execute(Dictionary`2 identifierValues, List`1 generatedValues)
+   在 System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   在 System.Data.Entity.Internal.InternalContext.SaveChanges(), 在保存不公开其关系的外键属性的实体时出错。EntityEntries 属性将返回 null，因为单个实体无法标识为异常的源。通过在实体类型中公开外键属性，可以更加轻松地在保存时处理异常。有关详细信息，请参阅 InnerException。, EntityFramework,    在 System.Data.Entity.Internal.InternalContext.SaveChanges()
+   在 GameServer.Services.UserService.OnCreateCharacter(NetConnection`1 sender, UserCreateCharacterRequest request) 位置 D:\biancheng\unity\MyMmorpg\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 123
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\biancheng\unity\MyMmorpg\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2022-04-27 15:19:16,849 [36] [WARN ] [GameServer] ：Client[] Disconnected
+2022-04-27 15:22:58,521 [1] [INFO ] [GameServer] ：Game Server Init
+2022-04-27 15:22:58,806 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-04-27 15:22:58,828 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 15:22:58,828 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 15:22:58,829 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 15:22:58,867 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 15:22:58,867 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 15:22:58,868 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 15:22:58,868 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 15:22:58,868 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 15:22:58,925 [1] [WARN ] [GameServer] ：NetService Started
+2022-04-27 15:23:03,202 [3] [WARN ] [GameServer] ：Client[127.0.0.1:6174]] Connected
+2022-04-27 15:23:03,273 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:23
+2022-04-27 15:23:03,411 [5] [INFO ] [GameServer] ：UserLoginRequest: User:zw123  Pass:abc123
+2022-04-27 15:23:17,667 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:23
+2022-04-27 15:23:17,670 [6] [INFO ] [GameServer] ：UserRegisterRequest: User:zw123  Pass:abc123
+2022-04-27 15:23:26,456 [3] [WARN ] [GameServer] ：Client[] Disconnected
+2022-04-27 15:23:43,041 [3] [WARN ] [GameServer] ：Client[127.0.0.1:6208]] Connected
+2022-04-27 15:23:43,125 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:23
+2022-04-27 15:23:43,126 [5] [INFO ] [GameServer] ：UserLoginRequest: User:zw123  Pass:abc123
+2022-04-27 15:23:48,229 [13] [WARN ] [GameServer] ：Client[] DataReceived Len:15
+2022-04-27 15:23:48,232 [5] [INFO ] [GameServer] ：UserCreateCharacterRequest: Name:111  Class:Warrior
+2022-04-27 15:24:01,081 [3] [WARN ] [GameServer] ：Client[] Disconnected
+2022-04-27 15:24:18,153 [3] [WARN ] [GameServer] ：Client[127.0.0.1:6233]] Connected
+2022-04-27 15:24:18,227 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:23
+2022-04-27 15:24:18,228 [5] [INFO ] [GameServer] ：UserLoginRequest: User:zw123  Pass:abc123
+2022-04-27 15:24:25,046 [17] [WARN ] [GameServer] ：Client[] Disconnected
+2022-04-27 16:04:52,675 [1] [INFO ] [GameServer] ：Game Server Init
+2022-04-27 16:04:52,905 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-04-27 16:04:52,967 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 16:04:52,968 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 16:04:52,968 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 16:04:52,968 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 16:04:52,968 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 16:04:52,968 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 16:04:52,968 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 16:04:52,968 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 16:04:53,013 [1] [WARN ] [GameServer] ：NetService Started
+2022-04-27 16:05:00,655 [3] [WARN ] [GameServer] ：Client[127.0.0.1:8676]] Connected
+2022-04-27 16:05:00,735 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:23
+2022-04-27 16:05:00,869 [5] [INFO ] [GameServer] ：UserLoginRequest: User:zw123  Pass:abc123
+2022-04-27 16:05:09,210 [3] [WARN ] [GameServer] ：Client[] Disconnected
+2022-04-27 16:05:53,443 [3] [WARN ] [GameServer] ：Client[127.0.0.1:8720]] Connected
+2022-04-27 16:05:53,505 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:23
+2022-04-27 16:05:53,506 [5] [INFO ] [GameServer] ：UserLoginRequest: User:zw123  Pass:abc123
+2022-04-27 16:06:00,761 [14] [WARN ] [GameServer] ：Client[] Disconnected
+2022-04-27 16:06:55,201 [14] [WARN ] [GameServer] ：Client[127.0.0.1:8763]] Connected
+2022-04-27 16:06:55,267 [14] [WARN ] [GameServer] ：Client[] DataReceived Len:23
+2022-04-27 16:06:55,268 [5] [INFO ] [GameServer] ：UserLoginRequest: User:zw123  Pass:abc123
+2022-04-27 16:07:31,679 [14] [WARN ] [GameServer] ：Client[] Disconnected
+2022-04-27 16:11:10,316 [14] [WARN ] [GameServer] ：Client[127.0.0.1:8969]] Connected
+2022-04-27 16:11:10,380 [14] [WARN ] [GameServer] ：Client[] DataReceived Len:23
+2022-04-27 16:11:10,380 [5] [INFO ] [GameServer] ：UserLoginRequest: User:zw123  Pass:abc123
+2022-04-27 16:12:48,258 [14] [WARN ] [GameServer] ：Client[] Disconnected
+2022-04-27 16:14:24,555 [14] [WARN ] [GameServer] ：Client[127.0.0.1:9102]] Connected
+2022-04-27 16:14:24,623 [14] [WARN ] [GameServer] ：Client[] DataReceived Len:23
+2022-04-27 16:14:24,624 [5] [INFO ] [GameServer] ：UserLoginRequest: User:zw123  Pass:abc123
+2022-04-27 16:14:37,031 [28] [WARN ] [GameServer] ：Client[] DataReceived Len:15
+2022-04-27 16:14:37,036 [5] [INFO ] [GameServer] ：UserCreateCharacterRequest: Name:222  Class:Wizard
+2022-04-27 16:14:43,923 [14] [WARN ] [GameServer] ：Client[] DataReceived Len:15
+2022-04-27 16:14:43,924 [5] [INFO ] [GameServer] ：UserCreateCharacterRequest: Name:333  Class:Archer
+2022-04-27 16:16:40,836 [14] [WARN ] [GameServer] ：Client[] Disconnected
+2022-04-27 16:19:08,120 [14] [WARN ] [GameServer] ：Client[127.0.0.1:9305]] Connected
+2022-04-27 16:19:08,182 [14] [WARN ] [GameServer] ：Client[] DataReceived Len:23
+2022-04-27 16:19:08,183 [5] [INFO ] [GameServer] ：UserLoginRequest: User:zw123  Pass:abc123
+2022-04-27 16:19:18,254 [39] [WARN ] [GameServer] ：Client[] Disconnected
+2022-04-27 16:21:48,859 [39] [WARN ] [GameServer] ：Client[127.0.0.1:9460]] Connected
+2022-04-27 16:21:48,927 [39] [WARN ] [GameServer] ：Client[] DataReceived Len:23
+2022-04-27 16:21:48,927 [5] [INFO ] [GameServer] ：UserLoginRequest: User:zw123  Pass:abc123
+2022-04-27 16:21:56,154 [46] [WARN ] [GameServer] ：Client[] DataReceived Len:15
+2022-04-27 16:21:56,154 [5] [INFO ] [GameServer] ：UserCreateCharacterRequest: Name:444  Class:Warrior
+2022-04-27 16:22:00,605 [39] [WARN ] [GameServer] ：Client[] Disconnected
+2022-04-27 17:07:03,145 [1] [INFO ] [GameServer] ：Game Server Init
+2022-04-27 17:07:03,363 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-04-27 17:07:03,372 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:07:03,373 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:07:03,400 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:07:03,400 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:07:03,400 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:07:03,400 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:07:03,400 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:07:03,400 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:07:03,472 [1] [WARN ] [GameServer] ：NetService Started
+2022-04-27 17:07:52,317 [1] [INFO ] [GameServer] ：Game Server Init
+2022-04-27 17:07:52,551 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-04-27 17:07:52,595 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:07:52,596 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:07:52,596 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:07:52,597 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:07:52,597 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:07:52,597 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:07:52,597 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:07:52,597 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:07:52,697 [1] [WARN ] [GameServer] ：NetService Started
+2022-04-27 17:08:09,493 [1] [INFO ] [GameServer] ：Game Server Init
+2022-04-27 17:08:09,704 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-04-27 17:08:09,714 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:08:09,714 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:08:09,714 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:08:09,715 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:08:09,715 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:08:09,717 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:08:09,739 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:08:09,739 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:08:09,816 [1] [WARN ] [GameServer] ：NetService Started
+2022-04-27 17:08:33,730 [3] [WARN ] [GameServer] ：Client[127.0.0.1:12050]] Connected
+2022-04-27 17:08:33,809 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:23
+2022-04-27 17:08:33,956 [5] [INFO ] [GameServer] ：UserLoginRequest: User:zw123  Pass:abc123
+2022-04-27 17:08:34,951 [5] [ERROR] [GameServer] ：Message handler exception:System.Data.SqlClient.SqlException (0x80131904): 用户 'mmo' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext](TTarget target, Action`2 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   在 System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.Open(DbConnection connection, DbInterceptionContext interceptionContext)
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.<>c__DisplayClass1.<Execute>b__0()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+ClientConnectionId:96656165-091c-47c7-af61-e56faec1b445
+Error Number:18456,State:1,Class:14, 基础提供程序在 Open 上失败。, EntityFramework,    在 System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   在 System.Data.Entity.Core.Objects.ObjectContext.EnsureConnection(Boolean shouldMonitorTransactions)
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass7.<GetResults>b__5()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<System.Collections.Generic.IEnumerable<T>.GetEnumerator>b__0()
+   在 System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   在 GameServer.Services.UserService.OnLogin(NetConnection`1 sender, UserLoginRequest request) 位置 D:\biancheng\unity\MyMmorpg\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 42
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\biancheng\unity\MyMmorpg\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2022-04-27 17:09:06,725 [1] [INFO ] [GameServer] ：Game Server Init
+2022-04-27 17:09:06,947 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-04-27 17:09:06,968 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:09:06,968 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:09:06,968 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:09:06,970 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:09:06,969 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:09:07,001 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:09:07,001 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:09:07,001 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:09:07,060 [1] [WARN ] [GameServer] ：NetService Started
+2022-04-27 17:09:12,982 [3] [WARN ] [GameServer] ：Client[127.0.0.1:12076]] Connected
+2022-04-27 17:09:12,995 [14] [WARN ] [GameServer] ：Client[] DataReceived Len:23
+2022-04-27 17:09:13,146 [5] [INFO ] [GameServer] ：UserLoginRequest: User:zw123  Pass:abc123
+2022-04-27 17:09:13,301 [5] [ERROR] [GameServer] ：Message handler exception:System.ArgumentException: 不支持关键字: “passworld”。
+   在 System.Data.Common.DbConnectionOptions.ParseInternal(Hashtable parsetable, String connectionString, Boolean buildChain, Hashtable synonyms, Boolean firstKey)
+   在 System.Data.Common.DbConnectionOptions..ctor(String connectionString, Hashtable synonyms, Boolean useOdbcRules)
+   在 System.Data.SqlClient.SqlConnectionString..ctor(String connectionString)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnectionOptions(String connectionString, DbConnectionOptions previous)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnectionPoolGroup(DbConnectionPoolKey key, DbConnectionPoolGroupOptions poolOptions, DbConnectionOptions& userConnectionOptions)
+   在 System.Data.SqlClient.SqlConnection.ConnectionString_Set(DbConnectionPoolKey key)
+   在 System.Data.SqlClient.SqlConnection.set_ConnectionString(String value)
+   在 System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext](TTarget target, Action`2 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   在 System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.SetConnectionString(DbConnection connection, DbConnectionPropertyInterceptionContext`1 interceptionContext)
+   在 System.Data.Entity.Core.EntityClient.EntityConnection.ChangeConnectionString(String newConnectionString), 基础提供程序在 ConnectionString 上失败。, EntityFramework,    在 System.Data.Entity.Core.EntityClient.EntityConnection.ChangeConnectionString(String newConnectionString)
+   在 System.Data.Entity.Internal.LazyInternalConnection.InitializeFromConnectionStringSetting(ConnectionStringSettings appConfigConnection)
+   在 System.Data.Entity.Internal.LazyInternalConnection.TryInitializeFromAppConfig(String name, AppConfig config)
+   在 System.Data.Entity.Internal.LazyInternalConnection.Initialize()
+   在 System.Data.Entity.Internal.LazyInternalConnection.CreateObjectContextFromConnectionModel()
+   在 System.Data.Entity.Internal.LazyInternalContext.InitializeContext()
+   在 System.Data.Entity.Internal.InternalContext.Initialize()
+   在 System.Data.Entity.Internal.InternalContext.GetEntitySetAndBaseTypeForType(Type entityType)
+   在 System.Data.Entity.Internal.Linq.InternalSet`1.Initialize()
+   在 System.Data.Entity.Internal.Linq.InternalSet`1.get_InternalContext()
+   在 System.Data.Entity.Infrastructure.DbQuery`1.System.Linq.IQueryable.get_Provider()
+   在 System.Linq.Queryable.Where[TSource](IQueryable`1 source, Expression`1 predicate)
+   在 GameServer.Services.UserService.OnLogin(NetConnection`1 sender, UserLoginRequest request) 位置 D:\biancheng\unity\MyMmorpg\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 42
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\biancheng\unity\MyMmorpg\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2022-04-27 17:18:37,455 [1] [INFO ] [GameServer] ：Game Server Init
+2022-04-27 17:18:37,699 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-04-27 17:18:37,768 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:18:37,768 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:18:37,769 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:18:37,769 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:18:37,770 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:18:37,770 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:18:37,771 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:18:37,771 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:18:37,810 [1] [WARN ] [GameServer] ：NetService Started
+2022-04-27 17:18:41,015 [3] [WARN ] [GameServer] ：Client[127.0.0.1:12437]] Connected
+2022-04-27 17:18:41,027 [14] [WARN ] [GameServer] ：Client[] DataReceived Len:23
+2022-04-27 17:18:41,170 [5] [INFO ] [GameServer] ：UserLoginRequest: User:zw123  Pass:abc123
+2022-04-27 17:18:42,115 [5] [ERROR] [GameServer] ：Message handler exception:System.Data.SqlClient.SqlException (0x80131904): 用户 'mmo' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext](TTarget target, Action`2 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   在 System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.Open(DbConnection connection, DbInterceptionContext interceptionContext)
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.<>c__DisplayClass1.<Execute>b__0()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+ClientConnectionId:198891c2-3da7-48eb-8c93-77968248ac84
+Error Number:18456,State:1,Class:14, 基础提供程序在 Open 上失败。, EntityFramework,    在 System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   在 System.Data.Entity.Core.Objects.ObjectContext.EnsureConnection(Boolean shouldMonitorTransactions)
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass7.<GetResults>b__5()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<System.Collections.Generic.IEnumerable<T>.GetEnumerator>b__0()
+   在 System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   在 GameServer.Services.UserService.OnLogin(NetConnection`1 sender, UserLoginRequest request) 位置 D:\biancheng\unity\MyMmorpg\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 42
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\biancheng\unity\MyMmorpg\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2022-04-27 17:19:21,368 [1] [INFO ] [GameServer] ：Game Server Init
+2022-04-27 17:19:21,609 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-04-27 17:19:21,645 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:19:21,646 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:19:21,645 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:19:21,646 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:19:21,646 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:19:21,675 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:19:21,675 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:19:21,675 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:19:21,780 [1] [WARN ] [GameServer] ：NetService Started
+2022-04-27 17:19:24,526 [3] [WARN ] [GameServer] ：Client[127.0.0.1:12467]] Connected
+2022-04-27 17:19:24,536 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:23
+2022-04-27 17:19:24,681 [5] [INFO ] [GameServer] ：UserLoginRequest: User:zw123  Pass:abc123
+2022-04-27 17:19:25,625 [5] [ERROR] [GameServer] ：Message handler exception:System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext](TTarget target, Action`2 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   在 System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.Open(DbConnection connection, DbInterceptionContext interceptionContext)
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.<>c__DisplayClass1.<Execute>b__0()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+ClientConnectionId:281aa5e1-9616-4d70-b392-33eeedb7b913
+Error Number:18456,State:1,Class:14, 基础提供程序在 Open 上失败。, EntityFramework,    在 System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   在 System.Data.Entity.Core.Objects.ObjectContext.EnsureConnection(Boolean shouldMonitorTransactions)
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass7.<GetResults>b__5()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<System.Collections.Generic.IEnumerable<T>.GetEnumerator>b__0()
+   在 System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   在 GameServer.Services.UserService.OnLogin(NetConnection`1 sender, UserLoginRequest request) 位置 D:\biancheng\unity\MyMmorpg\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 42
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\biancheng\unity\MyMmorpg\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2022-04-27 17:26:54,160 [1] [INFO ] [GameServer] ：Game Server Init
+2022-04-27 17:26:54,386 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-04-27 17:26:54,396 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:26:54,396 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:26:54,396 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:26:54,398 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:26:54,398 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:26:54,402 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:26:54,405 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:26:54,411 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:26:54,494 [1] [WARN ] [GameServer] ：NetService Started
+2022-04-27 17:27:14,085 [3] [WARN ] [GameServer] ：Client[127.0.0.1:12777]] Connected
+2022-04-27 17:27:14,189 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:23
+2022-04-27 17:27:14,328 [5] [INFO ] [GameServer] ：UserLoginRequest: User:zw123  Pass:abc123
+2022-04-27 17:27:15,298 [5] [ERROR] [GameServer] ：Message handler exception:System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext](TTarget target, Action`2 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   在 System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.Open(DbConnection connection, DbInterceptionContext interceptionContext)
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.<>c__DisplayClass1.<Execute>b__0()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+ClientConnectionId:6ea58c74-7cdf-4743-b7f4-ef89e5afcf4c
+Error Number:18456,State:1,Class:14, 基础提供程序在 Open 上失败。, EntityFramework,    在 System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   在 System.Data.Entity.Core.Objects.ObjectContext.EnsureConnection(Boolean shouldMonitorTransactions)
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass7.<GetResults>b__5()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<System.Collections.Generic.IEnumerable<T>.GetEnumerator>b__0()
+   在 System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   在 GameServer.Services.UserService.OnLogin(NetConnection`1 sender, UserLoginRequest request) 位置 D:\biancheng\unity\MyMmorpg\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 42
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\biancheng\unity\MyMmorpg\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2022-04-27 17:30:08,693 [1] [INFO ] [GameServer] ：Game Server Init
+2022-04-27 17:30:08,940 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-04-27 17:30:08,985 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:30:08,985 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:30:08,985 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:30:08,985 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:30:09,011 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:30:09,011 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:30:09,011 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:30:09,011 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:30:09,099 [1] [WARN ] [GameServer] ：NetService Started
+2022-04-27 17:30:12,086 [3] [WARN ] [GameServer] ：Client[127.0.0.1:13026]] Connected
+2022-04-27 17:30:12,099 [14] [WARN ] [GameServer] ：Client[] DataReceived Len:23
+2022-04-27 17:30:12,245 [5] [INFO ] [GameServer] ：UserLoginRequest: User:zw123  Pass:abc123
+2022-04-27 17:30:18,456 [3] [WARN ] [GameServer] ：Client[] Disconnected
+2022-04-27 17:31:00,013 [3] [WARN ] [GameServer] ：Client[127.0.0.1:13067]] Connected
+2022-04-27 17:31:00,094 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:23
+2022-04-27 17:31:00,095 [5] [INFO ] [GameServer] ：UserLoginRequest: User:zw123  Pass:abc123
+2022-04-27 17:31:14,277 [1] [INFO ] [GameServer] ：Game Server Init
+2022-04-27 17:31:14,487 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-04-27 17:31:14,533 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:31:14,534 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:31:14,536 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:31:14,536 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:31:14,536 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:31:14,541 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:31:14,541 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:31:14,543 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-04-27 17:31:14,634 [1] [WARN ] [GameServer] ：NetService Started
+2022-04-27 17:31:14,656 [3] [WARN ] [GameServer] ：Client[127.0.0.1:13077]] Connected
+2022-04-27 17:31:22,198 [3] [WARN ] [GameServer] ：Client[] Disconnected
+2022-04-27 17:31:37,170 [3] [WARN ] [GameServer] ：Client[127.0.0.1:13096]] Connected
+2022-04-27 17:31:37,245 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:23
+2022-04-27 17:31:37,368 [5] [INFO ] [GameServer] ：UserLoginRequest: User:zw123  Pass:abc123
+2022-04-27 17:31:42,375 [3] [WARN ] [GameServer] ：Client[] Disconnected

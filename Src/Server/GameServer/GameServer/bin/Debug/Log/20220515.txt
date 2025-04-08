@@ -1,0 +1,164 @@
+
+2022-05-15 10:34:55,339 [1] [INFO ] [GameServer] ：Game Server Init
+2022-05-15 10:34:55,639 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-05-15 10:34:56,152 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-05-15 10:34:56,156 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-05-15 10:34:56,157 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:落日森林
+2022-05-15 10:34:56,158 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日余晖
+2022-05-15 10:34:56,160 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-05-15 10:34:56,199 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-05-15 10:34:56,199 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-05-15 10:34:56,200 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-05-15 10:34:56,200 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-05-15 10:34:56,230 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-05-15 10:34:56,230 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-05-15 10:34:56,230 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-05-15 10:34:56,230 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-05-15 10:34:56,302 [1] [WARN ] [GameServer] ：NetService Started
+2022-05-15 10:35:06,628 [3] [WARN ] [GameServer] ：Client[127.0.0.1:14914]] Connected
+2022-05-15 10:35:06,725 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-05-15 10:35:06,877 [5] [INFO ] [GameServer] ：UserRegisterRequest: User:a  Pass:a
+2022-05-15 10:35:13,548 [14] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-05-15 10:35:13,553 [6] [INFO ] [GameServer] ：UserLoginRequest: User:a  Pass:a
+2022-05-15 10:35:17,755 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:29
+2022-05-15 10:35:18,021 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:15
+2022-05-15 10:35:18,026 [6] [INFO ] [GameServer] ：UserCreateCharacterRequest: Name:aaa  Class:Archer
+2022-05-15 10:35:19,827 [14] [WARN ] [GameServer] ：Client[] DataReceived Len:8
+2022-05-15 10:35:19,830 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:aaa Map:1
+2022-05-15 10:35:19,844 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-05-15 10:35:45,735 [14] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-05-15 10:35:45,737 [14] [WARN ] [GameServer] ：Client[] Disconnected
+2022-05-15 10:37:35,624 [13] [WARN ] [GameServer] ：Client[127.0.0.1:1063]] Connected
+2022-05-15 10:37:35,715 [13] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-05-15 10:37:35,716 [5] [INFO ] [GameServer] ：UserLoginRequest: User:a  Pass:a
+2022-05-15 10:37:38,065 [13] [WARN ] [GameServer] ：Client[] DataReceived Len:8
+2022-05-15 10:37:38,066 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:aaa Map:1
+2022-05-15 10:37:38,067 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:2
+2022-05-15 10:37:55,485 [13] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:2
+2022-05-15 10:37:55,485 [13] [WARN ] [GameServer] ：Client[] Disconnected
+2022-05-15 10:42:38,698 [13] [WARN ] [GameServer] ：Client[127.0.0.1:1364]] Connected
+2022-05-15 10:42:38,777 [13] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-05-15 10:42:38,778 [5] [INFO ] [GameServer] ：UserLoginRequest: User:a  Pass:a
+2022-05-15 10:42:40,962 [13] [WARN ] [GameServer] ：Client[] DataReceived Len:8
+2022-05-15 10:42:40,964 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:aaa Map:1
+2022-05-15 10:42:40,965 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:3
+2022-05-15 10:42:48,410 [13] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:3
+2022-05-15 10:42:48,410 [13] [WARN ] [GameServer] ：Client[] Disconnected
+2022-05-15 10:47:28,156 [1] [INFO ] [GameServer] ：Game Server Init
+2022-05-15 10:47:28,406 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-05-15 10:47:29,003 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-05-15 10:47:29,008 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-05-15 10:47:29,010 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:落日森林
+2022-05-15 10:47:29,011 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日余晖
+2022-05-15 10:47:29,013 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-05-15 10:47:29,098 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-05-15 10:47:29,099 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-05-15 10:47:29,099 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-05-15 10:47:29,099 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-05-15 10:47:29,099 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-05-15 10:47:29,098 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-05-15 10:47:29,112 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-05-15 10:47:29,113 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-05-15 10:47:29,170 [1] [WARN ] [GameServer] ：NetService Started
+2022-05-15 10:47:46,500 [3] [WARN ] [GameServer] ：Client[127.0.0.1:1636]] Connected
+2022-05-15 10:47:46,596 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-05-15 10:47:46,751 [5] [INFO ] [GameServer] ：UserLoginRequest: User:a  Pass:a
+2022-05-15 10:47:51,351 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:8
+2022-05-15 10:47:51,354 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:aaa Map:1
+2022-05-15 10:47:51,471 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-05-15 10:48:00,706 [14] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-05-15 10:48:00,709 [14] [WARN ] [GameServer] ：Client[] Disconnected
+2022-05-15 10:48:58,834 [14] [WARN ] [GameServer] ：Client[127.0.0.1:1711]] Connected
+2022-05-15 10:48:59,055 [14] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-05-15 10:48:59,056 [5] [INFO ] [GameServer] ：UserLoginRequest: User:a  Pass:a
+2022-05-15 10:49:01,175 [16] [WARN ] [GameServer] ：Client[] DataReceived Len:8
+2022-05-15 10:49:01,175 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:aaa Map:1
+2022-05-15 10:49:01,176 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:2
+2022-05-15 10:49:07,568 [16] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:2
+2022-05-15 10:49:07,569 [16] [WARN ] [GameServer] ：Client[] Disconnected
+2022-05-15 10:49:34,172 [16] [WARN ] [GameServer] ：Client[127.0.0.1:1738]] Connected
+2022-05-15 10:49:34,414 [16] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-05-15 10:49:34,415 [5] [INFO ] [GameServer] ：UserLoginRequest: User:a  Pass:a
+2022-05-15 10:49:37,063 [13] [WARN ] [GameServer] ：Client[] DataReceived Len:8
+2022-05-15 10:49:37,064 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:aaa Map:1
+2022-05-15 10:49:37,065 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:3
+2022-05-15 10:52:51,893 [13] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:3
+2022-05-15 10:52:51,893 [13] [WARN ] [GameServer] ：Client[] Disconnected
+2022-05-15 11:00:40,792 [21] [WARN ] [GameServer] ：Client[127.0.0.1:2358]] Connected
+2022-05-15 11:00:40,872 [21] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-05-15 11:00:40,872 [5] [INFO ] [GameServer] ：UserLoginRequest: User:a  Pass:a
+2022-05-15 11:00:43,100 [37] [WARN ] [GameServer] ：Client[] DataReceived Len:8
+2022-05-15 11:00:43,101 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:aaa Map:1
+2022-05-15 11:00:43,102 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:4
+2022-05-15 11:00:49,074 [37] [WARN ] [GameServer] ：Client[] DataReceived Len:33
+2022-05-15 11:00:49,082 [6] [INFO ] [GameServer] ：OnMapEntitySync:characterID:4:aaa Entity.Id:4 Evt:None Entity:(4:pos:(5000,4000,820),dir:(98,18,0),spd:0
+2022-05-15 11:00:49,174 [37] [WARN ] [GameServer] ：Client[] DataReceived Len:33
+2022-05-15 11:00:49,175 [7] [INFO ] [GameServer] ：OnMapEntitySync:characterID:4:aaa Entity.Id:4 Evt:None Entity:(4:pos:(5000,4000,820),dir:(93,36,0),spd:0
+2022-05-15 11:00:49,272 [37] [WARN ] [GameServer] ：Client[] DataReceived Len:33
+2022-05-15 11:00:49,273 [8] [INFO ] [GameServer] ：OnMapEntitySync:characterID:4:aaa Entity.Id:4 Evt:None Entity:(4:pos:(5000,4000,820),dir:(84,54,0),spd:0
+2022-05-15 11:00:49,355 [37] [WARN ] [GameServer] ：Client[] DataReceived Len:33
+2022-05-15 11:00:49,356 [9] [INFO ] [GameServer] ：OnMapEntitySync:characterID:4:aaa Entity.Id:4 Evt:None Entity:(4:pos:(5000,4000,820),dir:(73,68,0),spd:0
+2022-05-15 11:00:49,456 [37] [WARN ] [GameServer] ：Client[] DataReceived Len:33
+2022-05-15 11:00:49,457 [10] [INFO ] [GameServer] ：OnMapEntitySync:characterID:4:aaa Entity.Id:4 Evt:None Entity:(4:pos:(5000,4000,820),dir:(57,82,0),spd:0
+2022-05-15 11:00:49,554 [37] [WARN ] [GameServer] ：Client[] DataReceived Len:33
+2022-05-15 11:00:49,555 [11] [INFO ] [GameServer] ：OnMapEntitySync:characterID:4:aaa Entity.Id:4 Evt:None Entity:(4:pos:(5000,4000,820),dir:(39,92,0),spd:0
+2022-05-15 11:00:49,671 [37] [WARN ] [GameServer] ：Client[] DataReceived Len:33
+2022-05-15 11:00:49,671 [12] [INFO ] [GameServer] ：OnMapEntitySync:characterID:4:aaa Entity.Id:4 Evt:None Entity:(4:pos:(5000,4000,820),dir:(22,98,0),spd:0
+2022-05-15 11:00:56,510 [37] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:4
+2022-05-15 11:00:56,513 [37] [WARN ] [GameServer] ：Client[] Disconnected
+2022-05-15 11:01:09,639 [38] [WARN ] [GameServer] ：Client[127.0.0.1:2383]] Connected
+2022-05-15 11:01:09,743 [38] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-05-15 11:01:09,744 [5] [INFO ] [GameServer] ：UserLoginRequest: User:a  Pass:a
+2022-05-15 11:01:11,828 [37] [WARN ] [GameServer] ：Client[] DataReceived Len:8
+2022-05-15 11:01:11,830 [6] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:aaa Map:1
+2022-05-15 11:01:11,832 [6] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:5
+2022-05-15 11:01:30,335 [37] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:5
+2022-05-15 11:01:30,336 [37] [WARN ] [GameServer] ：Client[] Disconnected
+2022-05-15 11:03:09,331 [40] [WARN ] [GameServer] ：Client[127.0.0.1:2487]] Connected
+2022-05-15 11:03:09,412 [45] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-05-15 11:03:09,413 [5] [INFO ] [GameServer] ：UserLoginRequest: User:a  Pass:a
+2022-05-15 11:03:12,439 [40] [WARN ] [GameServer] ：Client[] DataReceived Len:8
+2022-05-15 11:03:12,440 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:aaa Map:1
+2022-05-15 11:03:12,441 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:6
+2022-05-15 11:03:20,275 [40] [WARN ] [GameServer] ：Client[] DataReceived Len:33
+2022-05-15 11:03:20,277 [6] [INFO ] [GameServer] ：OnMapEntitySync:characterID:6:aaa Entity.Id:6 Evt:None Entity:(6:pos:(5000,4000,820),dir:(98,18,0),spd:0
+2022-05-15 11:03:20,375 [40] [WARN ] [GameServer] ：Client[] DataReceived Len:33
+2022-05-15 11:03:20,376 [7] [INFO ] [GameServer] ：OnMapEntitySync:characterID:6:aaa Entity.Id:6 Evt:None Entity:(6:pos:(5000,4000,820),dir:(93,36,0),spd:0
+2022-05-15 11:03:20,474 [40] [WARN ] [GameServer] ：Client[] DataReceived Len:33
+2022-05-15 11:03:20,474 [8] [INFO ] [GameServer] ：OnMapEntitySync:characterID:6:aaa Entity.Id:6 Evt:None Entity:(6:pos:(5000,4000,820),dir:(84,54,0),spd:0
+2022-05-15 11:03:20,556 [40] [WARN ] [GameServer] ：Client[] DataReceived Len:33
+2022-05-15 11:03:20,557 [9] [INFO ] [GameServer] ：OnMapEntitySync:characterID:6:aaa Entity.Id:6 Evt:None Entity:(6:pos:(5000,4000,820),dir:(73,68,0),spd:0
+2022-05-15 11:03:20,655 [40] [WARN ] [GameServer] ：Client[] DataReceived Len:33
+2022-05-15 11:03:20,656 [10] [INFO ] [GameServer] ：OnMapEntitySync:characterID:6:aaa Entity.Id:6 Evt:None Entity:(6:pos:(5000,4000,820),dir:(57,82,0),spd:0
+2022-05-15 11:03:20,755 [40] [WARN ] [GameServer] ：Client[] DataReceived Len:33
+2022-05-15 11:03:20,756 [11] [INFO ] [GameServer] ：OnMapEntitySync:characterID:6:aaa Entity.Id:6 Evt:None Entity:(6:pos:(5000,4000,820),dir:(39,92,0),spd:0
+2022-05-15 11:03:20,854 [40] [WARN ] [GameServer] ：Client[] DataReceived Len:33
+2022-05-15 11:03:20,855 [12] [INFO ] [GameServer] ：OnMapEntitySync:characterID:6:aaa Entity.Id:6 Evt:None Entity:(6:pos:(5000,4000,820),dir:(19,98,0),spd:0
+2022-05-15 11:03:20,970 [40] [WARN ] [GameServer] ：Client[] DataReceived Len:31
+2022-05-15 11:03:20,971 [5] [INFO ] [GameServer] ：OnMapEntitySync:characterID:6:aaa Entity.Id:6 Evt:None Entity:(6:pos:(5000,4000,820),dir:(0,100,0),spd:0
+2022-05-15 11:03:55,410 [40] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:6
+2022-05-15 11:03:55,411 [40] [WARN ] [GameServer] ：Client[] Disconnected
+2022-05-15 17:21:27,130 [1] [INFO ] [GameServer] ：Game Server Init
+2022-05-15 17:21:27,342 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-05-15 17:21:27,626 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-05-15 17:21:27,630 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-05-15 17:21:27,630 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:落日森林
+2022-05-15 17:21:27,630 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日余晖
+2022-05-15 17:21:27,632 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-05-15 17:21:27,719 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-05-15 17:21:27,719 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-05-15 17:21:27,719 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-05-15 17:21:27,720 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-05-15 17:21:27,720 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-05-15 17:21:27,721 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-05-15 17:21:27,723 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-05-15 17:21:27,725 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-05-15 17:21:27,781 [1] [WARN ] [GameServer] ：NetService Started
+2022-05-15 17:22:40,334 [3] [WARN ] [GameServer] ：Client[127.0.0.1:7312]] Connected
+2022-05-15 17:22:40,405 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-05-15 17:22:40,534 [5] [INFO ] [GameServer] ：UserLoginRequest: User:a  Pass:a
+2022-05-15 17:22:47,061 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:8
+2022-05-15 17:22:47,064 [6] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1:aaa Map:1
+2022-05-15 17:22:47,154 [6] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:1
+2022-05-15 17:25:52,836 [3] [INFO ] [GameServer] ：CharacterLeave: Map:1 characterId:1
+2022-05-15 17:25:52,837 [3] [WARN ] [GameServer] ：Client[] Disconnected
